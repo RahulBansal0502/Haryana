@@ -1,0 +1,53 @@
+header{
+  background-color: red;
+  padding:80px;
+font-size: 25px;
+  text-align:center;
+background-image: linear-gradient(to bottom right, red, yellow);
+  font-style: italic;
+}
+h1{
+  font-size:40px;
+  text-align: center;
+  font-style: normal;
+  color: #ffffff;
+}
+img{
+  /*float:right;*/
+  padding: 10px;
+}
+
+.active {
+		background: #ffd31d;
+	}
+  nav{
+    background-color: #ff4301;
+    margin-top: 0.5%;
+      margin-bottom: 0.5%;
+
+  }
+  nav a{
+  background-color: #f1fa3c;
+    display  :inline-block;
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+    color:#9d0b0b;
+
+  		margin: 1%;
+  text-align:left;
+  		border-radius: 5px;
+  }
+  nav a:hover{
+    opacity: 2.5;
+  		background-color:#ffd31d;
+  		font-size: 120%;
+  }
+  footer{
+    background-image: linear-gradient(to bottom right, #ff512f ,  #dd2476);
+    padding:25px;
+    text-align: center;
+
+  }
+  footer a{
+    padding-right:30px;
+  }
